@@ -1,0 +1,37 @@
+{
+    "id": "b7826030-34ef-4c4a-d4a0-47bdf6058d01",
+    "author": "",
+    "widgets": [
+        {
+            "id": "Building_Dashboard_MAF",
+            "name": "Building_Dashboard_MAF",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+    ],
+    "sidebarLinks": [
+        {
+            "id": "Building_Dashboard_MAFLink",
+            "label": "",
+            "description": "",
+            "target": "",
+            "icon": "",
+            "roles":[]
+        }
+    ],
+    "uis": [
+        {
+            "id": "Building_Dashboard_MAFLink",
+            "label":"",
+            "description": "",
+            "roles": []
+        }
+    ],
+    "menuItems": [
+        {
+            "id": "Building_Dashboard_MAFLink",
+            "title": "Building_Dashboard_MAF"
+        }
+    ]
+}

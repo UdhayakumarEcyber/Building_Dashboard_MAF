@@ -1,0 +1,64 @@
+{
+    "id": "3fe493f6-3745-4ebe-c2e6-0161e9be6e0f",
+    "author": "Eutech",
+    "widgets": [
+        {
+            "id": "Building_Dashboard_Performance_Reliability",
+            "name": "Building Dashboard Performance Reliability",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        },
+        {
+            "id": "Building_Dashboard_Maintenance_Services",
+            "name": "Building Dashboard Maintenance_Services",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        },
+        {
+            "id": "Building_Dashboard_Savings",
+            "name": "Building Dashboard Savings",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        },
+        {
+            "id": "Building_Dashboard_booking",
+            "name": "Buildingg Dashboard Booking",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        },
+        {
+            "id": "Building_Dashboard_emergency",
+            "name": "Building Dashboard Emergency",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        },
+        {
+            "id": "Building_Dashboard_DigitalTwin",
+            "name": "Building Dashboard DigitalTwin",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        },
+        {
+            "id": "Mall_Health_Widget",
+            "name": "Mall Health Widget",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+    ],
+    "sidebarLinks": [
+        
+    ],
+    "uis": [
+       
+    ],
+    "menuItems": [
+        
+    ]
+}
